@@ -1,0 +1,30 @@
+{
+  "name": "dior701-main",
+  "version": "1.0.0",
+  "description": "address of site on github pages: olegrewko.github.io/dior_500",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegrewko/dior_500.git"
+  },
+  "author": "olegrewko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegrewko/dior_500/issues"
+  },
+  "homepage": "https://github.com/olegrewko/dior_500#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-imagemin": "^7.1.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
